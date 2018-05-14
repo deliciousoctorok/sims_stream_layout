@@ -20,4 +20,4 @@ git init
 git remote add origin https://github.com/deliciousoctorok/sims_stream_layout.git
 git add .
 git commit -m "$subject"
-git push -u origin
+git push -u origin master
